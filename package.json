@@ -1,0 +1,17 @@
+{
+  "name": "nozolbot",
+  "version": "1.0.0",
+  "description": "NozolBot Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo\"Error: no test specified\" &amp;&amp; exit 1"
+  },
+  "author": "Omar Mohamed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^4.13.7",
+    "request": "^2.83.0"
+  }
+}
